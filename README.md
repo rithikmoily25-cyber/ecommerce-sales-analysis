@@ -24,5 +24,15 @@ Work Completed
 Project Status
 
 Excel analysis and dashboard completed.
+## Key Business Questions
 
-SQL analysis and Power BI development are planned as future project stages.
+1. What are the total sales?
+2. Which products generate the highest sales?
+3. Which months have the highest sales?
+4. Which stores perform best?
+5. Which payment method is most popular?
+
+## Project Status
+
+Excel analysis and dashboard completed.
+
